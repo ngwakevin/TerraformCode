@@ -1,1 +1,1 @@
-hyahhahhhahha test
+az group create
